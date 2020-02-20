@@ -6,19 +6,19 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
-github_username: fastai
+title: cabra judo club website/blog
+description: play judo and have fun
+github_username: cabrajudo
 # you can comment the below line out if your repo name is not different than your baseurl
-github_repo: "fastpages"
+github_repo: "cjc_website"
 
 # OPTIONAL: override baseurl and url if using a custom domain
-url: "https://fastpages.fast.ai" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. "/blog".  WARNING: if you are not using a custom domain, the baseurl *must* be set to your repo name.
+#url: "https://fastpages.fast.ai" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "" # the subpath of your site, e.g. "/blog".  WARNING: if you are not using a custom domain, the baseurl *must* be set to your repo name.
 
 # Email and twitter are optional:
-email: 
-twitter_username: "@fastdotai"
+email: cabrajudo@gmail.com
+twitter_username: judocabra
 
 # Set this to true to get LaTeX math equation support
 use_math: 
@@ -51,3 +51,4 @@ kramdown:
   auto_ids: true
   hard_wrap: false
   syntax_highlighter: rouge
+ 
