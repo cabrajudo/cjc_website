@@ -16,10 +16,7 @@
 ## News 
 
 
-
-{% include alert.html url="https://irishjudoassociation.ie/registration-level-1-coaching-course-closed-maximum-capacity-reached/" text="IJA Leinster Level 1 coaching course Feb 29 - Mar 1 and Apr 18-19" %}
-
-{% include alert.html url="https://goo.gl/maps/GkZEBZg8fYvLdPHq8" text="Phibsboro Class will take place in Cabra Parkside on Sat Feb 29th 12:00-13:00" %}
+{% include alert.html url="https://goo.gl/maps/GkZEBZg8fYvLdPHq8" text="Due to IJA coaching course in Palmerstown the Phibsboro Class will take place in Cabra Parkside on Sat Feb 29th 12:00-13:00" %}
 
 {% include info.html url="https://www.decathlon.ie/ie_en/100-kids-judo-uniform-white-en-s149518-2080464.html?gclid=CjwKCAiA98TxBRBtEiwAVRLqu4714IZEmEKC-nac98XTQlTSUMA8jok-kVAlyv3dqDNYBALKgIQLTxoCOzAQAvD_BwE" text="Decathlon has 10&euro; judo suits for sale ideal for beginners" %}
 
