@@ -1,6 +1,12 @@
-# About Cabra Judo Club
+# About Cabra Judo Club (CJC)
 
 The club was established in 2011 by Alonzo Henderson 5th Dan Black Belt and former Irish international judo player
+
+CJC is a member club of the Irish Judo Association (IJA) and all coaches and staff are fully compliant with IJA and Sports Council requirements
+
+## Mission Statement
+
+The mission of Cabra Judo club is to instill the values and a lifelong love of the olympic sport of judo in children of all backgrounds 
 
 ## Cabra
 
